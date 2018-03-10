@@ -1,0 +1,3 @@
+GET http://{{host}}/api/json/get?id={{id-value}}&key={{unresolved_var}}
+
+###
