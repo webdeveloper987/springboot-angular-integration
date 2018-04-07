@@ -11,6 +11,6 @@ with:
 
 **ng build** required before deplyoment.
 
-(Note that this works for Angular 2+ projects generated in Angular CLI tool, for Angular 2+ projects not created by Angular CLI tool, the outDir is edited in tsconfig.json file )
+(Note that this works for Angular 2+ projects generated in Angular CLI tool. For Angular 2+ projects not created by Angular CLI tool, the outDir is edited in tsconfig.json file )
 
 
